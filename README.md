@@ -43,7 +43,7 @@ At the end of a multiplayer round, the mod displays awards such as:
 
 ## Contributing
 
-Submit issues or pull requests on GitHub to improve the mod.
+Submit issues or pull requests on GitHub to improve the mod. Also just so you know I have no idea wtf Im doing. So be paitnet with me. 
 
 ## License
 

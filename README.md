@@ -1,4 +1,4 @@
-# SM64 Lua Mod: Honorable Mentions
+# SM64CoopDX Lua Mod: Honorable Mentions
 
 A Super Mario 64 mod for SM64CoopDX that displays "Honorable Mentions" at the end of each multiplayer round, inspired by GoldenEye 007. Awards players with titles like "Most Tags" based on performance.
 

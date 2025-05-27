@@ -1,0 +1,5 @@
+*.luac
+*.log
+temp/
+mods/
+.DS_Store
